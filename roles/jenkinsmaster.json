@@ -1,6 +1,6 @@
 {
     "name": "jenkinsmaster",
-    "description": "This is an example role defined as JSON",
+    "description": "This is a role to install Jenkins",
     "chef_type": "role",
     "json_class": "Chef::Role",
     "default_attributes": {

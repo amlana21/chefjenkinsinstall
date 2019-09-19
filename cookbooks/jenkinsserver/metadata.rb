@@ -1,7 +1,7 @@
 name 'jenkinsserver'
 maintainer 'Amlan'
 maintainer_email 'amlana21@gmail.com'
-license 'All Rights Reserved'
+license 'Public'
 description 'Installs/Configures jenkinsserver'
 long_description 'Installs/Configures jenkinsserver'
 version '0.2.3'
