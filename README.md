@@ -41,4 +41,4 @@ http://<server-address>:8080
 <strong>Docker cookbook details:</strong> https://supermarket.chef.io/cookbooks/docker  
 <strong>Jenkins Docker Image Details:</strong>  https://github.com/jenkinsci/docker/blob/master/README.md  
 
-If you have questions or issues, please create an issue or email me directly at amlana21@gmail.com
+If you have questions or issues, please create an issue or email me directly at amlana21@gmail.com .
