@@ -39,4 +39,6 @@ http://<server-address>:8080
 ## Technical Details 
 <strong>Services/Technologies used:</strong> CHEF, Docker,Jenkins  
 <strong>Docker cookbook details:</strong> https://supermarket.chef.io/cookbooks/docker  
-<strong>Jenkins Docker Image Details:</strong>  https://github.com/jenkinsci/docker/blob/master/README.md
+<strong>Jenkins Docker Image Details:</strong>  https://github.com/jenkinsci/docker/blob/master/README.md  
+
+If you have questions or issues, please create an issue or email me directly at amlana21@gmail.com
