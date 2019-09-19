@@ -25,7 +25,7 @@ https://manage.chef.io/login to get a free account
 * Run the bootstrap process  
 `knife bootstrap <server-ip> --ssh-user <user> --sudo --identity-file <path to server key file> --node-name JenkinsNode --run-list 'role[jenkinsmaster]' `  
 * Once it finishes Jenkins will be installed as a Docker container in the remote server. To access Jenkins and complete the installation, navigate to  
-http://<server-address>:8080  
+http://\<server-address>:8080  
 * That will land on the initial installation page of Jenkins where it will ask for the auto generated admin password. To get the password:  
     * SSH to the remote server  
     * Execute the below command to get the logs for the Jenkins container which was started during the bootstrap process  
@@ -34,7 +34,7 @@ http://<server-address>:8080
 * Enter the password and complete the installation with Suggested plugins
 * It will also ask to create the first admin user  
 * Jenkins can be accessed from below URL:  
-http://<server-address>:8080  
+http://\<server-address>:8080  
 
 ## Technical Details 
 <strong>Services/Technologies used:</strong> CHEF, Docker,Jenkins  
